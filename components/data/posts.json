@@ -1,0 +1,47 @@
+[
+  {
+    "coverImage": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=1600&q=80",
+    "heading": "The Future of Remote Work",
+    "status": "active",
+    "date": "2025-08-10",
+    "views": 4520,
+    "interaction": 320,
+    "content": "<h1>The Future of Remote Work</h1><p>Remote work is no longer a <strong>temporary trend</strong>. Companies like <a href='https://www.microsoft.com' target='_blank'>Microsoft</a> and <a href='https://www.google.com' target='_blank'>Google</a> have already embraced hybrid work models.</p><h2>Key Benefits</h2><ul><li>Increased flexibility</li><li>Access to global talent</li><li><em>Better work-life balance</em></li></ul><p>But challenges remain: <u>communication</u>, <s>team isolation</s>, and <b>security risks</b>.</p><blockquote>“The best way to predict the future is to create it.” – Peter Drucker</blockquote><img src='https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1200&q=80' alt='Remote work desk' style='width:100%;margin:20px 0;'/><h3>Tools for Success</h3><ol><li>Zoom & Teams</li><li>Notion & Confluence</li><li>Slack & Discord</li></ol><pre><code>const remoteWork = true;\nconsole.log('Work from anywhere:', remoteWork);</code></pre>"
+  },
+  {
+    "coverImage": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "heading": "Sustainable Travel: A New Way Forward",
+    "status": "archived",
+    "date": "2025-06-21",
+    "views": 3780,
+    "interaction": 280,
+    "content": "<h1>Sustainable Travel: A New Way Forward</h1><p>Travel is back, but with a <b>conscious twist</b>. Tourists are seeking <i>eco-friendly experiences</i> that reduce their carbon footprint.</p><h2>Practical Tips</h2><ul><li>Choose trains over flights</li><li>Stay at <a href='https://www.booking.com' target='_blank'>eco-certified hotels</a></li><li>Carry reusable water bottles</li></ul><p>Here’s a stunning example of <u>sustainable travel</u> destinations:</p><img src='https://images.unsplash.com/photo-1493558103817-58b2924bce98?auto=format&fit=crop&w=1200&q=80' alt='Eco Travel' style='width:100%;margin:20px 0;'/><blockquote>“Take only memories, leave only footprints.” – Chief Seattle</blockquote><h3>Why It Matters</h3><p><strong>Over-tourism</strong> has harmed fragile ecosystems. <em>Change starts with us.</em></p><ol><li>Plan slow travel</li><li>Support local communities</li><li>Offset your carbon emissions</li></ol><pre><code>function travelEcoFriendly() {\n  return ['train', 'bike', 'walk'];\n}\nconsole.log(travelEcoFriendly());</code></pre>"
+  },
+  {
+    "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1600&q=80",
+    "heading": "AI in Everyday Life",
+    "status": "active",
+    "date": "2025-07-15",
+    "views": 5120,
+    "interaction": 410,
+    "content": "<h1>AI in Everyday Life</h1><p>From <b>smart assistants</b> like <a href='https://openai.com/chatgpt' target='_blank'>ChatGPT</a> to <i>self-driving cars</i>, AI has entered all aspects of our lives.</p><h2>Applications</h2><ul><li>Healthcare diagnostics</li><li>Finance fraud detection</li><li>Personalized recommendations</li></ul><img src='https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80' alt='AI concept' style='width:100%;margin:20px 0;'/><blockquote>“Artificial Intelligence is the new electricity.” – Andrew Ng</blockquote><p>However, <u>ethical concerns</u> such as <s>bias</s> and <b>privacy</b> must be addressed.</p><h3>Code Example</h3><pre><code>import openai\nresponse = openai.ChatCompletion.create(\n  model='gpt-5',\n  messages=[{'role':'user','content':'Hello AI'}]\n)\nprint(response)</code></pre>"
+  },
+  {
+    "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80",
+    "heading": "Blockchain Beyond Cryptocurrency",
+    "status": "active",
+    "date": "2025-05-12",
+    "views": 2890,
+    "interaction": 195,
+    "content": "<h1>Blockchain Beyond Cryptocurrency</h1><p>Blockchain is not just about <b>Bitcoin</b>. It powers <a href='https://ethereum.org' target='_blank'>Ethereum</a>, supply chain systems, and digital identity solutions.</p><h2>Use Cases</h2><ul><li>Smart Contracts</li><li>Decentralized Finance (DeFi)</li><li>Voting Systems</li></ul><img src='https://images.unsplash.com/photo-1620325849391-62e94d4798e9?auto=format&fit=crop&w=1200&q=80' alt='Blockchain concept' style='width:100%;margin:20px 0;'/><blockquote>“In blockchain we trust.”</blockquote><pre><code>const transaction = {from: 'Alice', to: 'Bob', amount: 2};\nconsole.log(JSON.stringify(transaction));</code></pre>"
+  },
+  {
+    "coverImage": "https://images.unsplash.com/photo-1526401485004-2aa6b5cb5bda?auto=format&fit=crop&w=1600&q=80",
+    "heading": "Healthy Lifestyle in a Digital World",
+    "status": "archived",
+    "date": "2025-04-02",
+    "views": 1980,
+    "interaction": 140,
+    "content": "<h1>Healthy Lifestyle in a Digital World</h1><p>Balancing <strong>screen time</strong> and <em>well-being</em> is essential in 2025.</p><h2>Tips</h2><ul><li>Take regular breaks</li><li>Exercise daily</li><li>Practice mindfulness</li></ul><img src='https://images.unsplash.com/photo-1571019613914-85f342c1d4b1?auto=format&fit=crop&w=1200&q=80' alt='Healthy lifestyle' style='width:100%;margin:20px 0;'/><blockquote>“Health is the greatest wealth.” – Virgil</blockquote><pre><code>function takeBreak() {\n  setTimeout(() => console.log('Time to stretch!'), 3600000);\n}</code></pre>"
+  }
+]

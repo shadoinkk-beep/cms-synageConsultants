@@ -1,0 +1,59 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+firebase-debug.log*
+firebase-debug.*.log*
+
+# Firebase cache
+.firebase/
+
+# Firebase config
+# Uncomment if each dev wants own config
+# .firebaserc
+
+# Next.js build output
+.next/
+out/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage
+.nyc_output
+
+# Grunt / Bower / Build artifacts
+.grunt
+bower_components
+build/Release
+
+# Node dependencies
+node_modules/
+
+# Optional npm / yarn cache
+.npm
+.yarn-integrity
+
+# Optional eslint cache
+.eslintcache
+
+# REPL history
+.node_repl_history
+
+# npm pack
+*.tgz
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# dataconnect generated files
+.dataconnect

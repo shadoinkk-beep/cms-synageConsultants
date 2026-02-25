@@ -1,0 +1,52 @@
+[
+  {
+    "by": "admin",
+    "content": "<h1>The Rise of Artificial Intelligence</h1><p>Artificial Intelligence (AI) is no longer just a <strong>concept</strong>; it is a <em>reality</em> shaping our daily lives. Companies like <a href='https://openai.com' target='_blank'>OpenAI</a> and <a href='https://deepmind.com' target='_blank'>DeepMind</a> are leading the revolution.</p><h2>Benefits</h2><ul><li><u>Automation</u> of complex workflows</li><li><strong>Scalability</strong> across industries</li><li><em>24/7 Availability</em></li></ul><blockquote>“AI is not man versus machine, but rather man with machine.”</blockquote><p><img src='https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d' alt='AI Future'/></p><h3>Code Example</h3><pre><code class='language-javascript'>const aiEnabled = true;\nif(aiEnabled){\n  console.log('Hello AI World!');\n}</code></pre><h3>Comparison</h3><table border='1'><tr><th>Old</th><th>AI</th></tr><tr><td>Manual</td><td>Automated</td></tr><tr><td>Slow</td><td>Fast</td></tr></table>",
+    "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "createdAt": "23 September 2025 at 15:00:00 UTC+5:30",
+    "heading": "The Rise of Artificial Intelligence",
+    "interactions": { "like": 15, "share": 7, "views": 120 },
+    "status": "active",
+    "tags": ["AI", "machine-learning", "future-tech"]
+  },
+  {
+    "by": "admin",
+    "content": "<h1>Blockchain Beyond Cryptocurrency</h1><p>Blockchain is not just about <strong>Bitcoin</strong> or <em>Ethereum</em>. It has expanded into supply chain, healthcare, and governance. Companies like <a href='https://ethereum.org' target='_blank'>Ethereum</a> are building next-gen ecosystems.</p><h2>Applications</h2><ol><li>Smart Contracts</li><li>Decentralized Finance (DeFi)</li><li>Identity Management</li></ol><blockquote>“The blockchain symbolizes a shift in power from the centers to the edges.”</blockquote><p><img src='https://images.unsplash.com/photo-1518546305927-5a555bb7020a' alt='Blockchain'/></p><h3>Code</h3><pre><code class='language-solidity'>pragma solidity ^0.8.0;\ncontract HelloBlockchain {\n  string public message = 'Hello, Blockchain!';\n}</code></pre><h3>Comparison</h3><table border='1'><tr><th>Traditional DB</th><th>Blockchain</th></tr><tr><td>Centralized</td><td>Decentralized</td></tr><tr><td>Editable</td><td>Immutable</td></tr></table>",
+    "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475",
+    "createdAt": "23 September 2025 at 15:10:00 UTC+5:30",
+    "heading": "Blockchain Beyond Cryptocurrency",
+    "interactions": { "like": 20, "share": 10, "views": 200 },
+    "status": "active",
+    "tags": ["blockchain", "fintech", "decentralization"]
+  },
+  {
+    "by": "admin",
+    "content": "<h1>The Future of Remote Work</h1><p>Remote work is not a <strong>temporary trend</strong>; it’s the <u>new normal</u>. Giants like <a href='https://microsoft.com' target='_blank'>Microsoft</a> and <a href='https://google.com' target='_blank'>Google</a> have adopted hybrid work models.</p><h2>Key Advantages</h2><ul><li><em>Flexibility</em></li><li>Global talent access</li><li>Improved work-life balance</li></ul><blockquote>“Work is no longer a place you go, but what you do.”</blockquote><p><img src='https://images.unsplash.com/photo-1587614295999-6a9d2c91fdb0' alt='Remote Work'/></p><h3>Snippet</h3><pre><code class='language-javascript'>const remoteWork = true;\nconsole.log('Work from anywhere:', remoteWork);</code></pre><h3>Tools</h3><table border='1'><tr><th>Category</th><th>Tools</th></tr><tr><td>Communication</td><td>Zoom, Teams</td></tr><tr><td>Collaboration</td><td>Notion, Confluence</td></tr></table>",
+    "coverImage": "https://images.unsplash.com/photo-1590608897129-79da98d1593a",
+    "createdAt": "23 September 2025 at 15:20:00 UTC+5:30",
+    "heading": "The Future of Remote Work",
+    "interactions": { "like": 12, "share": 5, "views": 150 },
+    "status": "active",
+    "tags": ["remote-work", "productivity", "best-practices"]
+  },
+  {
+    "by": "admin",
+    "content": "<h1>Cybersecurity in the Modern Era</h1><p>With digital transformation, <strong>cybersecurity</strong> has become a <em>top priority</em>. Threats are more sophisticated, targeting enterprises and individuals alike.</p><h2>Common Threats</h2><ol><li>Phishing Attacks</li><li>Ransomware</li><li>Insider Threats</li></ol><blockquote>“Security is not a product, but a process.” – Bruce Schneier</blockquote><p><img src='https://images.unsplash.com/photo-1605902711622-cfb43c44367e' alt='Cybersecurity'/></p><h3>Code Check</h3><pre><code class='language-python'>import hashlib\npassword = 'secure123'\nhash = hashlib.sha256(password.encode()).hexdigest()\nprint(hash)</code></pre><h3>Security Layers</h3><table border='1'><tr><th>Layer</th><th>Protection</th></tr><tr><td>Network</td><td>Firewalls</td></tr><tr><td>Application</td><td>Encryption</td></tr></table>",
+    "coverImage": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+    "createdAt": "23 September 2025 at 15:30:00 UTC+5:30",
+    "heading": "Cybersecurity in the Modern Era",
+    "interactions": { "like": 18, "share": 9, "views": 180 },
+    "status": "active",
+    "tags": ["cybersecurity", "infosec", "technology"]
+  },
+  {
+    "by": "admin",
+    "content": "<h1>Cloud Computing Evolution</h1><p>Cloud computing has shifted from <strong>IaaS</strong> to <u>SaaS</u> and <em>PaaS</em>, transforming how businesses operate. Leaders like <a href='https://aws.amazon.com' target='_blank'>AWS</a>, <a href='https://azure.microsoft.com' target='_blank'>Azure</a>, and <a href='https://cloud.google.com' target='_blank'>Google Cloud</a> dominate the industry.</p><h2>Advantages</h2><ul><li>Scalability</li><li>Cost Efficiency</li><li>High Availability</li></ul><blockquote>“Cloud is about how you do computing, not where you do computing.”</blockquote><p><img src='https://images.unsplash.com/photo-1504384308090-c894fdcc538d' alt='Cloud'/></p><h3>Code Example</h3><pre><code class='language-bash'>aws s3 cp myfile.txt s3://mybucket/</code></pre><h3>Service Models</h3><table border='1'><tr><th>Model</th><th>Description</th></tr><tr><td>IaaS</td><td>Infrastructure as a Service</td></tr><tr><td>PaaS</td><td>Platform as a Service</td></tr><tr><td>SaaS</td><td>Software as a Service</td></tr></table>",
+    "coverImage": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2",
+    "createdAt": "23 September 2025 at 15:40:00 UTC+5:30",
+    "heading": "Cloud Computing Evolution",
+    "interactions": { "like": 22, "share": 11, "views": 250 },
+    "status": "active",
+    "tags": ["cloud", "saas", "paas", "iaas"]
+  }
+]

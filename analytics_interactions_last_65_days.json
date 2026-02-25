@@ -1,0 +1,394 @@
+{
+    "interactions": {
+        "31-08-2025": {
+            "views": 18,
+            "like": 13,
+            "share": 3,
+            "posts": 5
+        },
+        "31-07-2025": {
+            "views": 21,
+            "like": 11,
+            "share": 3,
+            "posts": 5
+        },
+        "30-08-2025": {
+            "views": 19,
+            "like": 0,
+            "share": 12,
+            "posts": 0
+        },
+        "30-07-2025": {
+            "views": 19,
+            "like": 13,
+            "share": 22,
+            "posts": 3
+        },
+        "29-08-2025": {
+            "views": 23,
+            "like": 13,
+            "share": 27,
+            "posts": 2
+        },
+        "29-07-2025": {
+            "views": 12,
+            "like": 13,
+            "share": 4,
+            "posts": 2
+        },
+        "28-08-2025": {
+            "views": 19,
+            "like": 17,
+            "share": 26,
+            "posts": 4
+        },
+        "28-07-2025": {
+            "views": 25,
+            "like": 0,
+            "share": 27,
+            "posts": 1
+        },
+        "27-08-2025": {
+            "views": 19,
+            "like": 15,
+            "share": 30,
+            "posts": 5
+        },
+        "27-07-2025": {
+            "views": 22,
+            "like": 11,
+            "share": 2,
+            "posts": 3
+        },
+        "26-08-2025": {
+            "views": 22,
+            "like": 15,
+            "share": 8,
+            "posts": 3
+        },
+        "26-07-2025": {
+            "views": 13,
+            "like": 5,
+            "share": 20,
+            "posts": 0
+        },
+        "25-08-2025": {
+            "views": 20,
+            "like": 6,
+            "share": 6,
+            "posts": 1
+        },
+        "25-07-2025": {
+            "views": 14,
+            "like": 3,
+            "share": 10,
+            "posts": 5
+        },
+        "24-08-2025": {
+            "views": 13,
+            "like": 19,
+            "share": 26,
+            "posts": 3
+        },
+        "24-07-2025": {
+            "views": 7,
+            "like": 7,
+            "share": 16,
+            "posts": 5
+        },
+        "23-08-2025": {
+            "views": 12,
+            "like": 11,
+            "share": 28,
+            "posts": 5
+        },
+        "23-07-2025": {
+            "views": 22,
+            "like": 9,
+            "share": 17,
+            "posts": 4
+        },
+        "22-09-2025": {
+            "views": 25,
+            "like": 0,
+            "share": 9,
+            "posts": 1
+        },
+        "22-08-2025": {
+            "views": 22,
+            "like": 18,
+            "share": 29,
+            "posts": 1
+        },
+        "22-07-2025": {
+            "views": 13,
+            "like": 5,
+            "share": 24,
+            "posts": 2
+        },
+        "21-09-2025": {
+            "views": 12,
+            "like": 6,
+            "share": 15,
+            "posts": 5
+        },
+        "21-08-2025": {
+            "views": 10,
+            "like": 12,
+            "share": 30,
+            "posts": 3
+        },
+        "21-07-2025": {
+            "views": 24,
+            "like": 18,
+            "share": 14,
+            "posts": 3
+        },
+        "20-09-2025": {
+            "views": 23,
+            "like": 9,
+            "share": 23,
+            "posts": 2
+        },
+        "20-08-2025": {
+            "views": 9,
+            "like": 5,
+            "share": 10,
+            "posts": 3
+        },
+        "20-07-2025": {
+            "views": 10,
+            "like": 20,
+            "share": 28,
+            "posts": 4
+        },
+        "19-09-2025": {
+            "views": 12,
+            "like": 2,
+            "share": 18,
+            "posts": 3
+        },
+        "19-08-2025": {
+            "views": 24,
+            "like": 19,
+            "share": 25,
+            "posts": 2
+        },
+        "18-09-2025": {
+            "views": 23,
+            "like": 8,
+            "share": 0,
+            "posts": 2
+        },
+        "18-08-2025": {
+            "views": 25,
+            "like": 5,
+            "share": 6,
+            "posts": 5
+        },
+        "17-09-2025": {
+            "views": 19,
+            "like": 11,
+            "share": 29,
+            "posts": 0
+        },
+        "17-08-2025": {
+            "views": 22,
+            "like": 17,
+            "share": 14,
+            "posts": 3
+        },
+        "16-09-2025": {
+            "views": 5,
+            "like": 4,
+            "share": 30,
+            "posts": 4
+        },
+        "16-08-2025": {
+            "views": 22,
+            "like": 20,
+            "share": 20,
+            "posts": 5
+        },
+        "15-09-2025": {
+            "views": 14,
+            "like": 14,
+            "share": 1,
+            "posts": 0
+        },
+        "15-08-2025": {
+            "views": 5,
+            "like": 9,
+            "share": 25,
+            "posts": 5
+        },
+        "14-09-2025": {
+            "views": 16,
+            "like": 7,
+            "share": 25,
+            "posts": 5
+        },
+        "14-08-2025": {
+            "views": 8,
+            "like": 19,
+            "share": 29,
+            "posts": 2
+        },
+        "13-09-2025": {
+            "views": 5,
+            "like": 2,
+            "share": 14,
+            "posts": 1
+        },
+        "13-08-2025": {
+            "views": 20,
+            "like": 1,
+            "share": 4,
+            "posts": 1
+        },
+        "12-09-2025": {
+            "views": 23,
+            "like": 7,
+            "share": 23,
+            "posts": 5
+        },
+        "12-08-2025": {
+            "views": 16,
+            "like": 14,
+            "share": 21,
+            "posts": 0
+        },
+        "11-09-2025": {
+            "views": 9,
+            "like": 13,
+            "share": 26,
+            "posts": 5
+        },
+        "11-08-2025": {
+            "views": 10,
+            "like": 2,
+            "share": 27,
+            "posts": 2
+        },
+        "10-09-2025": {
+            "views": 15,
+            "like": 11,
+            "share": 0,
+            "posts": 1
+        },
+        "10-08-2025": {
+            "views": 23,
+            "like": 6,
+            "share": 5,
+            "posts": 5
+        },
+        "09-09-2025": {
+            "views": 6,
+            "like": 16,
+            "share": 1,
+            "posts": 4
+        },
+        "09-08-2025": {
+            "views": 24,
+            "like": 3,
+            "share": 25,
+            "posts": 0
+        },
+        "08-09-2025": {
+            "views": 8,
+            "like": 19,
+            "share": 1,
+            "posts": 4
+        },
+        "08-08-2025": {
+            "views": 13,
+            "like": 18,
+            "share": 16,
+            "posts": 4
+        },
+        "07-09-2025": {
+            "views": 5,
+            "like": 13,
+            "share": 21,
+            "posts": 5
+        },
+        "07-08-2025": {
+            "views": 20,
+            "like": 19,
+            "share": 5,
+            "posts": 4
+        },
+        "06-09-2025": {
+            "views": 6,
+            "like": 7,
+            "share": 24,
+            "posts": 4
+        },
+        "06-08-2025": {
+            "views": 6,
+            "like": 16,
+            "share": 27,
+            "posts": 3
+        },
+        "05-09-2025": {
+            "views": 18,
+            "like": 14,
+            "share": 7,
+            "posts": 5
+        },
+        "05-08-2025": {
+            "views": 13,
+            "like": 19,
+            "share": 0,
+            "posts": 1
+        },
+        "04-09-2025": {
+            "views": 24,
+            "like": 17,
+            "share": 15,
+            "posts": 0
+        },
+        "04-08-2025": {
+            "views": 19,
+            "like": 17,
+            "share": 8,
+            "posts": 2
+        },
+        "03-09-2025": {
+            "views": 10,
+            "like": 8,
+            "share": 7,
+            "posts": 0
+        },
+        "03-08-2025": {
+            "views": 13,
+            "like": 12,
+            "share": 23,
+            "posts": 5
+        },
+        "02-09-2025": {
+            "views": 17,
+            "like": 16,
+            "share": 22,
+            "posts": 4
+        },
+        "02-08-2025": {
+            "views": 20,
+            "like": 18,
+            "share": 5,
+            "posts": 1
+        },
+        "01-09-2025": {
+            "views": 24,
+            "like": 19,
+            "share": 6,
+            "posts": 5
+        },
+        "01-08-2025": {
+            "views": 24,
+            "like": 8,
+            "share": 14,
+            "posts": 5
+        }
+    }
+}
