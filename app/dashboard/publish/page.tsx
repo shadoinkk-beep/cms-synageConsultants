@@ -147,7 +147,7 @@ const handleSave = async () => {
           {/* Save Button */}
 
           {
-            saved != "" ?  <a className="mt-6  items-center flex gap-2  w-fit px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700" href={`https://authcor-landing-page.vercel.app/insights/${encodeURIComponent(saved)}`}> Go to blog <Link/> </a> :
+            saved != "" ?  <a className="mt-6  items-center flex gap-2  w-fit px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700" href={`https://synageconsultants.com/blogs/${encodeURIComponent(saved)}`}> Go to blog <Link/> </a> :
           
 
             <div>
